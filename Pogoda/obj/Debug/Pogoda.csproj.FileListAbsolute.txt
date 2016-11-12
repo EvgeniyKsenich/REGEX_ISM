@@ -1,0 +1,9 @@
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\Pogoda\Pogoda\bin\Debug\Pogoda.exe.config
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\Pogoda\Pogoda\bin\Debug\Pogoda.exe
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\Pogoda\Pogoda\bin\Debug\Pogoda.pdb
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\Pogoda\Pogoda\obj\Debug\Pogoda.csprojResolveAssemblyReference.cache
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\Pogoda\Pogoda\obj\Debug\Pogoda.Form1.resources
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\Pogoda\Pogoda\obj\Debug\Pogoda.Properties.Resources.resources
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\Pogoda\Pogoda\obj\Debug\Pogoda.csproj.GenerateResource.Cache
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\Pogoda\Pogoda\obj\Debug\Pogoda.exe
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\Pogoda\Pogoda\obj\Debug\Pogoda.pdb
